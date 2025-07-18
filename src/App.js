@@ -40,7 +40,7 @@ const App = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-indigo-100 via-white to-pink-100 p-6">
       <div className="max-w-xl mx-auto bg-white rounded-2xl shadow-2xl p-6">
-        <h1 className="text-3xl font-bold text-center text-indigo-600 mb-6">🌟 ToDo Task Manager</h1>
+        <h1 className="text-3xl font-bold text-center text-indigo-600 mb-6">Task Manager</h1>
 
         <div className="flex flex-col md:flex-row gap-3 mb-6">
           <input
